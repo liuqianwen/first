@@ -2,8 +2,9 @@
 <head>
 <style>
 .lqw {
-font-sise:18px;
-text-align:center
+font-sise:14px;
+text-align:center;
+color:#fff;
 }
 </style>
 </head>
