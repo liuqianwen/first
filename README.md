@@ -1,6 +1,13 @@
 <html>
-<head></head>
+<head>
+<style>
+.lqw {
+font-sise:18px;
+text-align:center
+}
+</style>
+</head>
 <body>
-<h1>我的第一的github静态页面</h1>
+<h1 class="lqw">我的第一的github静态页面</h1>
 </body>
 </html>
